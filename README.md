@@ -5,13 +5,13 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Hawtian Wang</h1>
-<h3 align="center">A backend developer from China</h3>
+<h3 align="center">A backend developer from Shanghai, China</h3>
 
 - 🌱 I’m currently learning **Swift, SwiftUI**
 
 - 📝 I regularly write articles on [https://twistoy.com](https://twistoy.com)
 
-- 💬 Ask me about **C++, Neovim**
+- 💬 Ask me about **C++, Neovim, Rust**
 
 - 📫 How to reach me **hawtian.wang@twistoy.cn**
 
