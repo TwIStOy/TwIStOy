@@ -44,3 +44,5 @@
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TwIStOy&theme=react-dark" />
 </div>
 
+----
+![](https://komarev.com/ghpvc/?username=TwIStOy)
