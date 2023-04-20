@@ -45,4 +45,4 @@
 </div>
 
 ----
-![](https://komarev.com/ghpvc/?username=TwIStOy)
+![](https://komarev.com/ghpvc/?username=TwIStOy&style=for-the-badge)
