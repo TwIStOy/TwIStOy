@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Hawtian Wang</h1>
 <h3 align="center">A backend developer from Shanghai, China</h3>
 
-- 🌱 I’m currently learning **Swift, SwiftUI**
+- 🌱 I’m currently learning **Dart, Flutter**
 
 - 📝 I regularly write articles on [https://twistoy.com](https://twistoy.com)
 
