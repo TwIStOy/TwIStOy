@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Dart, Flutter**
 
-- 📝 I regularly write articles on [https://twistoy.com](https://twistoy.com)
+- 📝 I regularly write articles on [https://twistoy.cn](https://twistoy.cn)
 
 - 💬 Ask me about **C++, Neovim, Rust**
 
